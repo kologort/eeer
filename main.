@@ -1,0 +1,1 @@
+FROM rastasheep/ubuntu-sshd
